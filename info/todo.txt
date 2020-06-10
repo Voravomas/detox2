@@ -1,0 +1,5 @@
+TODO
++1) fill NEW db
++2) create efficient way to make requests and events
+3) refactor
+
