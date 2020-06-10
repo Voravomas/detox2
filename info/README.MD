@@ -21,3 +21,5 @@ exit psql "\q"
 
 Links:
 https://blog.logrocket.com/getting-started-with-postgres-in-your-react-app/
+VIDEO:
+https://youtu.be/l6Vy93xNZ4k
